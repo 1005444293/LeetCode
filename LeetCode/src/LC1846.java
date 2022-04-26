@@ -1,7 +1,5 @@
-import javafx.scene.effect.Blend;
-
 import java.util.Arrays;
-import java.util.Map;
+
 
 /**
  * 减小和重新排列数组后的最大元素:给你一个正整数数组arr 请你对 arr 执行一些操作（也可以不进行任何操作），使得数组满足以下条件：
